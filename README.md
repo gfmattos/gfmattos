@@ -2,7 +2,7 @@
 
 👋🏼 Hi, I’m @gfmattos
 
-**Bussiness Intelligence Analyst at @sondaIT**
+**Business Intelligence Analyst at @sondaIT**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/https://www.linkedin.com/in/guilhermefmattos/)](https://www.linkedin.com/in/guilhermefmattos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gf.mattos21@gmail.com)](mailto:gf.mattos21@gmail.com)
